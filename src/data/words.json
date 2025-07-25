@@ -1,0 +1,3112 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "EnglishWord": "and",
+      "Meanings": [
+        "و"
+      ]
+    },
+    {
+      "id": 2,
+      "EnglishWord": "a",
+      "Meanings": [
+        "یک"
+      ]
+    },
+    {
+      "id": 3,
+      "EnglishWord": "are",
+      "Meanings": [
+        "هستند"
+      ]
+    },
+    {
+      "id": 4,
+      "EnglishWord": "as",
+      "Meanings": [
+        "مانند"
+      ]
+    },
+    {
+      "id": 5,
+      "EnglishWord": "an",
+      "Meanings": [
+        "یک"
+      ]
+    },
+    {
+      "id": 6,
+      "EnglishWord": "at",
+      "Meanings": [
+        "در"
+      ]
+    },
+    {
+      "id": 7,
+      "EnglishWord": "about",
+      "Meanings": [
+        "در باره"
+      ]
+    },
+    {
+      "id": 8,
+      "EnglishWord": "all",
+      "Meanings": [
+        "همه"
+      ]
+    },
+    {
+      "id": 9,
+      "EnglishWord": "also",
+      "Meanings": [
+        "همچنین"
+      ]
+    },
+    {
+      "id": 10,
+      "EnglishWord": "abuse",
+      "Meanings": [
+        "سو استفاده کردن"
+      ]
+    },
+    {
+      "id": 11,
+      "EnglishWord": "administration",
+      "Meanings": [
+        "مدیر یت"
+      ]
+    },
+    {
+      "id": 12,
+      "EnglishWord": "appeal",
+      "Meanings": [
+        "درخواست"
+      ]
+    },
+    {
+      "id": 13,
+      "EnglishWord": "appreciate",
+      "Meanings": [
+        "قدردانی"
+      ]
+    },
+    {
+      "id": 14,
+      "EnglishWord": "aspect",
+      "Meanings": [
+        "جنبه"
+      ]
+    },
+    {
+      "id": 15,
+      "EnglishWord": "attitude",
+      "Meanings": [
+        "نگرش"
+      ]
+    },
+    {
+      "id": 16,
+      "EnglishWord": "any",
+      "Meanings": [
+        "هرکی"
+      ]
+    },
+    {
+      "id": 17,
+      "EnglishWord": "art",
+      "Meanings": [
+        "هنر"
+      ]
+    },
+    {
+      "id": 18,
+      "EnglishWord": "another",
+      "Meanings": [
+        "یکی دیگر"
+      ]
+    },
+    {
+      "id": 19,
+      "EnglishWord": "after",
+      "Meanings": [
+        "بعد از"
+      ]
+    },
+    {
+      "id": 20,
+      "EnglishWord": "advance",
+      "Meanings": [
+        "پیشرفت"
+      ]
+    },
+    {
+      "id": 21,
+      "EnglishWord": "alcohol",
+      "Meanings": [
+        "الکل"
+      ]
+    },
+    {
+      "id": 22,
+      "EnglishWord": "anywhere",
+      "Meanings": [
+        "هر جا"
+      ]
+    },
+    {
+      "id": 23,
+      "EnglishWord": "argument",
+      "Meanings": [
+        "بحث و جدل"
+      ]
+    },
+    {
+      "id": 24,
+      "EnglishWord": "around",
+      "Meanings": [
+        "دور و بر"
+      ]
+    },
+    {
+      "id": 25,
+      "EnglishWord": "air",
+      "Meanings": [
+        "هوا"
+      ]
+    },
+    {
+      "id": 26,
+      "EnglishWord": "available",
+      "Meanings": [
+        "در دسترس است"
+      ]
+    },
+    {
+      "id": 27,
+      "EnglishWord": "agreement",
+      "Meanings": [
+        "توافق"
+      ]
+    },
+    {
+      "id": 28,
+      "EnglishWord": "angle",
+      "Meanings": [
+        "زاو یه"
+      ]
+    },
+    {
+      "id": 29,
+      "EnglishWord": "attack",
+      "Meanings": [
+        "حمله"
+      ]
+    },
+    {
+      "id": 30,
+      "EnglishWord": "although",
+      "Meanings": [
+        "با اينكه"
+      ]
+    },
+    {
+      "id": 31,
+      "EnglishWord": "able",
+      "Meanings": [
+        "توانایی"
+      ]
+    },
+    {
+      "id": 32,
+      "EnglishWord": "always",
+      "Meanings": [
+        "همیشه"
+      ]
+    },
+    {
+      "id": 33,
+      "EnglishWord": "ability",
+      "Meanings": [
+        "توانایی"
+      ]
+    },
+    {
+      "id": 34,
+      "EnglishWord": "actor",
+      "Meanings": [
+        "باز یگر"
+      ]
+    },
+    {
+      "id": 35,
+      "EnglishWord": "afraid",
+      "Meanings": [
+        "ترسیدن"
+      ]
+    },
+    {
+      "id": 36,
+      "EnglishWord": "afternoon",
+      "Meanings": [
+        "بعد از ظهر"
+      ]
+    },
+    {
+      "id": 37,
+      "EnglishWord": "amazing",
+      "Meanings": [
+        "حیرت آور"
+      ]
+    },
+    {
+      "id": 38,
+      "EnglishWord": "annual",
+      "Meanings": [
+        "سالانه"
+      ]
+    },
+    {
+      "id": 39,
+      "EnglishWord": "anticipate",
+      "Meanings": [
+        "پیش بینی کنید"
+      ]
+    },
+    {
+      "id": 40,
+      "EnglishWord": "assume",
+      "Meanings": [
+        "فرض"
+      ]
+    },
+    {
+      "id": 41,
+      "EnglishWord": "add",
+      "Meanings": [
+        "اضافه کردن"
+      ]
+    },
+    {
+      "id": 42,
+      "EnglishWord": "away",
+      "Meanings": [
+        "دور"
+      ]
+    },
+    {
+      "id": 43,
+      "EnglishWord": "amount",
+      "Meanings": [
+        "میزان"
+      ]
+    },
+    {
+      "id": 44,
+      "EnglishWord": "area",
+      "Meanings": [
+        "منطقه"
+      ]
+    },
+    {
+      "id": 45,
+      "EnglishWord": "agent",
+      "Meanings": [
+        "عامل"
+      ]
+    },
+    {
+      "id": 46,
+      "EnglishWord": "anxiety",
+      "Meanings": [
+        "اضطراب"
+      ]
+    },
+    {
+      "id": 47,
+      "EnglishWord": "atmosphere",
+      "Meanings": [
+        "اتمسفر"
+      ]
+    },
+    {
+      "id": 48,
+      "EnglishWord": "awareness",
+      "Meanings": [
+        "اطلاع"
+      ]
+    },
+    {
+      "id": 49,
+      "EnglishWord": "activity",
+      "Meanings": [
+        "فعالیت"
+      ]
+    },
+    {
+      "id": 50,
+      "EnglishWord": "actually",
+      "Meanings": [
+        "در واقع"
+      ]
+    },
+    {
+      "id": 51,
+      "EnglishWord": "against",
+      "Meanings": [
+        "در برابر"
+      ]
+    },
+    {
+      "id": 52,
+      "EnglishWord": "along",
+      "Meanings": [
+        "در امتداد"
+      ]
+    },
+    {
+      "id": 53,
+      "EnglishWord": "answer",
+      "Meanings": [
+        "پاسخ"
+      ]
+    },
+    {
+      "id": 54,
+      "EnglishWord": "again",
+      "Meanings": [
+        "از نو"
+      ]
+    },
+    {
+      "id": 55,
+      "EnglishWord": "ask",
+      "Meanings": [
+        "پرسیدن"
+      ]
+    },
+    {
+      "id": 56,
+      "EnglishWord": "access",
+      "Meanings": [
+        "دسترسی به"
+      ]
+    },
+    {
+      "id": 57,
+      "EnglishWord": "additional",
+      "Meanings": [
+        "اضافی"
+      ]
+    },
+    {
+      "id": 58,
+      "EnglishWord": "almost",
+      "Meanings": [
+        "تقریبا"
+      ]
+    },
+    {
+      "id": 59,
+      "EnglishWord": "above",
+      "Meanings": [
+        "در بالا"
+      ]
+    },
+    {
+      "id": 60,
+      "EnglishWord": "according",
+      "Meanings": [
+        "با توجه"
+      ]
+    },
+    {
+      "id": 61,
+      "EnglishWord": "alternative",
+      "Meanings": [
+        "جایگزین"
+      ]
+    },
+    {
+      "id": 62,
+      "EnglishWord": "action",
+      "Meanings": [
+        "عمل"
+      ]
+    },
+    {
+      "id": 63,
+      "EnglishWord": "age",
+      "Meanings": [
+        "سن"
+      ]
+    },
+    {
+      "id": 64,
+      "EnglishWord": "among",
+      "Meanings": [
+        "در میان"
+      ]
+    },
+    {
+      "id": 65,
+      "EnglishWord": "absolutely",
+      "Meanings": [
+        "کاملا"
+      ]
+    },
+    {
+      "id": 66,
+      "EnglishWord": "acceptable",
+      "Meanings": [
+        "قابل قبول است"
+      ]
+    },
+    {
+      "id": 67,
+      "EnglishWord": "adult",
+      "Meanings": [
+        "بالغ"
+      ]
+    },
+    {
+      "id": 68,
+      "EnglishWord": "aggressive",
+      "Meanings": [
+        "خشونت آمیز"
+      ]
+    },
+    {
+      "id": 69,
+      "EnglishWord": "airline",
+      "Meanings": [
+        "خطوط هوایی"
+      ]
+    },
+    {
+      "id": 70,
+      "EnglishWord": "apart",
+      "Meanings": [
+        "جدا از هم"
+      ]
+    },
+    {
+      "id": 71,
+      "EnglishWord": "assure",
+      "Meanings": [
+        "اطمینان دادن"
+      ]
+    },
+    {
+      "id": 72,
+      "EnglishWord": "attract",
+      "Meanings": [
+        "جذب"
+      ]
+    },
+    {
+      "id": 73,
+      "EnglishWord": "across",
+      "Meanings": [
+        "در سراسر"
+      ]
+    },
+    {
+      "id": 74,
+      "EnglishWord": "already",
+      "Meanings": [
+        "قبلا"
+      ]
+    },
+    {
+      "id": 75,
+      "EnglishWord": "allow",
+      "Meanings": [
+        "اجازه دادن"
+      ]
+    },
+    {
+      "id": 76,
+      "EnglishWord": "analysis",
+      "Meanings": [
+        "تحلیل و بررسی"
+      ]
+    },
+    {
+      "id": 77,
+      "EnglishWord": "army",
+      "Meanings": [
+        "ارتش"
+      ]
+    },
+    {
+      "id": 78,
+      "EnglishWord": "acquire",
+      "Meanings": [
+        "به دست آوردن"
+      ]
+    },
+    {
+      "id": 79,
+      "EnglishWord": "adapt",
+      "Meanings": [
+        "انطباق"
+      ]
+    },
+    {
+      "id": 80,
+      "EnglishWord": "adjust",
+      "Meanings": [
+        "تنظیم کنید"
+      ]
+    },
+    {
+      "id": 81,
+      "EnglishWord": "administrative",
+      "Meanings": [
+        "ادا ری"
+      ]
+    },
+    {
+      "id": 82,
+      "EnglishWord": "altogether",
+      "Meanings": [
+        "در مجموع"
+      ]
+    },
+    {
+      "id": 83,
+      "EnglishWord": "anyway",
+      "Meanings": [
+        "به هر حال"
+      ]
+    },
+    {
+      "id": 84,
+      "EnglishWord": "argue",
+      "Meanings": [
+        "جر و بحث"
+      ]
+    },
+    {
+      "id": 85,
+      "EnglishWord": "arise",
+      "Meanings": [
+        "برخیز"
+      ]
+    },
+    {
+      "id": 86,
+      "EnglishWord": "arm",
+      "Meanings": [
+        "بازو"
+      ]
+    },
+    {
+      "id": 87,
+      "EnglishWord": "aside",
+      "Meanings": [
+        "گذشته از"
+      ]
+    },
+    {
+      "id": 88,
+      "EnglishWord": "associate",
+      "Meanings": [
+        "وابسته"
+      ]
+    },
+    {
+      "id": 89,
+      "EnglishWord": "automatic",
+      "Meanings": [
+        "اتوماتیک"
+      ]
+    },
+    {
+      "id": 90,
+      "EnglishWord": "automatically",
+      "Meanings": [
+        "بطور خودکار"
+      ]
+    },
+    {
+      "id": 91,
+      "EnglishWord": "act",
+      "Meanings": [
+        "عمل کن"
+      ]
+    },
+    {
+      "id": 92,
+      "EnglishWord": "article",
+      "Meanings": [
+        "مقاله"
+      ]
+    },
+    {
+      "id": 93,
+      "EnglishWord": "audience",
+      "Meanings": [
+        "حضار"
+      ]
+    },
+    {
+      "id": 94,
+      "EnglishWord": "actual",
+      "Meanings": [
+        "واقعی"
+      ]
+    },
+    {
+      "id": 95,
+      "EnglishWord": "appropriate",
+      "Meanings": [
+        "مناسب"
+      ]
+    },
+    {
+      "id": 96,
+      "EnglishWord": "advantage",
+      "Meanings": [
+        "مز یت"
+      ]
+    },
+    {
+      "id": 97,
+      "EnglishWord": "active",
+      "Meanings": [
+        "فعال"
+      ]
+    },
+    {
+      "id": 98,
+      "EnglishWord": "accident",
+      "Meanings": [
+        "تصادف"
+      ]
+    },
+    {
+      "id": 99,
+      "EnglishWord": "account",
+      "Meanings": [
+        "حساب"
+      ]
+    },
+    {
+      "id": 100,
+      "EnglishWord": "advertising",
+      "Meanings": [
+        "تبلیغات"
+      ]
+    },
+    {
+      "id": 101,
+      "EnglishWord": "affect",
+      "Meanings": [
+        "تاثیر می گذارد"
+      ]
+    },
+    {
+      "id": 102,
+      "EnglishWord": "ago",
+      "Meanings": [
+        "پیش"
+      ]
+    },
+    {
+      "id": 103,
+      "EnglishWord": "anyone",
+      "Meanings": [
+        "هر کسی"
+      ]
+    },
+    {
+      "id": 104,
+      "EnglishWord": "approach",
+      "Meanings": [
+        "رو یکرد"
+      ]
+    },
+    {
+      "id": 105,
+      "EnglishWord": "avoid",
+      "Meanings": [
+        "اجتناب کردن"
+      ]
+    },
+    {
+      "id": 106,
+      "EnglishWord": "airport",
+      "Meanings": [
+        "فرودگاه"
+      ]
+    },
+    {
+      "id": 107,
+      "EnglishWord": "alive",
+      "Meanings": [
+        "زنده است"
+      ]
+    },
+    {
+      "id": 108,
+      "EnglishWord": "angry",
+      "Meanings": [
+        "خشمگین"
+      ]
+    },
+    {
+      "id": 109,
+      "EnglishWord": "appointment",
+      "Meanings": [
+        "وقت ملاقات"
+      ]
+    },
+    {
+      "id": 110,
+      "EnglishWord": "arrival",
+      "Meanings": [
+        "ورود"
+      ]
+    },
+    {
+      "id": 111,
+      "EnglishWord": "assist",
+      "Meanings": [
+        "کمک کن"
+      ]
+    },
+    {
+      "id": 112,
+      "EnglishWord": "assumption",
+      "Meanings": [
+        "فرض"
+      ]
+    },
+    {
+      "id": 113,
+      "EnglishWord": "addition",
+      "Meanings": [
+        "علاوه بر این"
+      ]
+    },
+    {
+      "id": 114,
+      "EnglishWord": "apartment",
+      "Meanings": [
+        "اپارتمان"
+      ]
+    },
+    {
+      "id": 115,
+      "EnglishWord": "achieve",
+      "Meanings": [
+        "رسیدن به"
+      ]
+    },
+    {
+      "id": 116,
+      "EnglishWord": "address",
+      "Meanings": [
+        "نشانی"
+      ]
+    },
+    {
+      "id": 117,
+      "EnglishWord": "attention",
+      "Meanings": [
+        "توجه"
+      ]
+    },
+    {
+      "id": 118,
+      "EnglishWord": "average",
+      "Meanings": [
+        "میانگین"
+      ]
+    },
+    {
+      "id": 119,
+      "EnglishWord": "anything",
+      "Meanings": [
+        "هر چی زی"
+      ]
+    },
+    {
+      "id": 120,
+      "EnglishWord": "alone",
+      "Meanings": [
+        "تنها"
+      ]
+    },
+    {
+      "id": 121,
+      "EnglishWord": "attempt",
+      "Meanings": [
+        "تلاش کنید"
+      ]
+    },
+    {
+      "id": 122,
+      "EnglishWord": "abroad",
+      "Meanings": [
+        "خارج از کشور"
+      ]
+    },
+    {
+      "id": 123,
+      "EnglishWord": "alarm",
+      "Meanings": [
+        "زنگ خطر"
+      ]
+    },
+    {
+      "id": 124,
+      "EnglishWord": "anxious",
+      "Meanings": [
+        "مشتاق"
+      ]
+    },
+    {
+      "id": 125,
+      "EnglishWord": "arrive",
+      "Meanings": [
+        "رسیدن"
+      ]
+    },
+    {
+      "id": 126,
+      "EnglishWord": "assistance",
+      "Meanings": [
+        "معاونت"
+      ]
+    },
+    {
+      "id": 127,
+      "EnglishWord": "attach",
+      "Meanings": [
+        "پیوستن"
+      ]
+    },
+    {
+      "id": 128,
+      "EnglishWord": "ahead",
+      "Meanings": [
+        "در پیش"
+      ]
+    },
+    {
+      "id": 129,
+      "EnglishWord": "appear",
+      "Meanings": [
+        "به نظر می رسد"
+      ]
+    },
+    {
+      "id": 130,
+      "EnglishWord": "appearance",
+      "Meanings": [
+        "ظاهر"
+      ]
+    },
+    {
+      "id": 131,
+      "EnglishWord": "association",
+      "Meanings": [
+        "انجمن"
+      ]
+    },
+    {
+      "id": 132,
+      "EnglishWord": "accuse",
+      "Meanings": [
+        "متهم"
+      ]
+    },
+    {
+      "id": 133,
+      "EnglishWord": "admire",
+      "Meanings": [
+        "تحسین"
+      ]
+    },
+    {
+      "id": 134,
+      "EnglishWord": "admit",
+      "Meanings": [
+        "اقرار کردن"
+      ]
+    },
+    {
+      "id": 135,
+      "EnglishWord": "advice",
+      "Meanings": [
+        "مشاوره"
+      ]
+    },
+    {
+      "id": 136,
+      "EnglishWord": "afford",
+      "Meanings": [
+        "استطاعت داشتن"
+      ]
+    },
+    {
+      "id": 137,
+      "EnglishWord": "agree",
+      "Meanings": [
+        "موافق"
+      ]
+    },
+    {
+      "id": 138,
+      "EnglishWord": "adopt",
+      "Meanings": [
+        "اتخاذ"
+      ]
+    },
+    {
+      "id": 139,
+      "EnglishWord": "affair",
+      "Meanings": [
+        "امور"
+      ]
+    },
+    {
+      "id": 140,
+      "EnglishWord": "ambition",
+      "Meanings": [
+        "هدف - آرزو"
+      ]
+    },
+    {
+      "id": 141,
+      "EnglishWord": "analyst",
+      "Meanings": [
+        "تحلیلگر"
+      ]
+    },
+    {
+      "id": 142,
+      "EnglishWord": "anger",
+      "Meanings": [
+        "خشم"
+      ]
+    },
+    {
+      "id": 143,
+      "EnglishWord": "announce",
+      "Meanings": [
+        "اعلام"
+      ]
+    },
+    {
+      "id": 144,
+      "EnglishWord": "anybody",
+      "Meanings": [
+        "هر شخصی"
+      ]
+    },
+    {
+      "id": 145,
+      "EnglishWord": "apologize",
+      "Meanings": [
+        "عذر خواهی کردن"
+      ]
+    },
+    {
+      "id": 146,
+      "EnglishWord": "apple",
+      "Meanings": [
+        "سیب"
+      ]
+    },
+    {
+      "id": 147,
+      "EnglishWord": "approve",
+      "Meanings": [
+        "تایید"
+      ]
+    },
+    {
+      "id": 148,
+      "EnglishWord": "asleep",
+      "Meanings": [
+        "خواب"
+      ]
+    },
+    {
+      "id": 149,
+      "EnglishWord": "assignment",
+      "Meanings": [
+        "وظیفه"
+      ]
+    },
+    {
+      "id": 150,
+      "EnglishWord": "assistant",
+      "Meanings": [
+        "دستیار"
+      ]
+    },
+    {
+      "id": 151,
+      "EnglishWord": "attend",
+      "Meanings": [
+        "مراجعه كردن"
+      ]
+    },
+    {
+      "id": 152,
+      "EnglishWord": "award",
+      "Meanings": [
+        "جایزه"
+      ]
+    },
+    {
+      "id": 153,
+      "EnglishWord": "animal",
+      "Meanings": [
+        "حیوانات"
+      ]
+    },
+    {
+      "id": 154,
+      "EnglishWord": "application",
+      "Meanings": [
+        "کاربرد"
+      ]
+    },
+    {
+      "id": 155,
+      "EnglishWord": "apply",
+      "Meanings": [
+        "درخواست"
+      ]
+    },
+    {
+      "id": 156,
+      "EnglishWord": "author",
+      "Meanings": [
+        "نو یسنده"
+      ]
+    },
+    {
+      "id": 157,
+      "EnglishWord": "aware",
+      "Meanings": [
+        "مطلع"
+      ]
+    },
+    {
+      "id": 158,
+      "EnglishWord": "accurate",
+      "Meanings": [
+        "دقیق"
+      ]
+    },
+    {
+      "id": 159,
+      "EnglishWord": "advanced",
+      "Meanings": [
+        "پیشرفته"
+      ]
+    },
+    {
+      "id": 160,
+      "EnglishWord": "accept",
+      "Meanings": [
+        "قبول کردن"
+      ]
+    },
+    {
+      "id": 161,
+      "EnglishWord": "ad",
+      "Meanings": [
+        "آگهی"
+      ]
+    },
+    {
+      "id": 162,
+      "EnglishWord": "agency",
+      "Meanings": [
+        "آژانس"
+      ]
+    },
+    {
+      "id": 163,
+      "EnglishWord": "be",
+      "Meanings": [
+        "بودن"
+      ]
+    },
+    {
+      "id": 164,
+      "EnglishWord": "by",
+      "Meanings": [
+        "توسط"
+      ]
+    },
+    {
+      "id": 165,
+      "EnglishWord": "but",
+      "Meanings": [
+        "ولی"
+      ]
+    },
+    {
+      "id": 166,
+      "EnglishWord": "because",
+      "Meanings": [
+        "زیرا"
+      ]
+    },
+    {
+      "id": 167,
+      "EnglishWord": "beat",
+      "Meanings": [
+        "ضرب و شتم"
+      ]
+    },
+    {
+      "id": 168,
+      "EnglishWord": "burn",
+      "Meanings": [
+        "سوزاندن"
+      ]
+    },
+    {
+      "id": 169,
+      "EnglishWord": "been",
+      "Meanings": [
+        "بوده"
+      ]
+    },
+    {
+      "id": 170,
+      "EnglishWord": "before",
+      "Meanings": [
+        "قبل از"
+      ]
+    },
+    {
+      "id": 171,
+      "EnglishWord": "between",
+      "Meanings": [
+        "بین"
+      ]
+    },
+    {
+      "id": 172,
+      "EnglishWord": "business",
+      "Meanings": [
+        "کسب و کار"
+      ]
+    },
+    {
+      "id": 173,
+      "EnglishWord": "being",
+      "Meanings": [
+        "بودن"
+      ]
+    },
+    {
+      "id": 174,
+      "EnglishWord": "best",
+      "Meanings": [
+        "بهترین"
+      ]
+    },
+    {
+      "id": 175,
+      "EnglishWord": "basically",
+      "Meanings": [
+        "اساسا"
+      ]
+    },
+    {
+      "id": 176,
+      "EnglishWord": "belt",
+      "Meanings": [
+        "کمربند"
+      ]
+    },
+    {
+      "id": 177,
+      "EnglishWord": "bench",
+      "Meanings": [
+        "نیمکت"
+      ]
+    },
+    {
+      "id": 178,
+      "EnglishWord": "become",
+      "Meanings": [
+        "تبدیل شدن به"
+      ]
+    },
+    {
+      "id": 179,
+      "EnglishWord": "both",
+      "Meanings": [
+        "هر دو"
+      ]
+    },
+    {
+      "id": 180,
+      "EnglishWord": "back",
+      "Meanings": [
+        "بازگشت"
+      ]
+    },
+    {
+      "id": 181,
+      "EnglishWord": "blue",
+      "Meanings": [
+        "آبی"
+      ]
+    },
+    {
+      "id": 182,
+      "EnglishWord": "borrow",
+      "Meanings": [
+        "امانت گرفتن"
+      ]
+    },
+    {
+      "id": 183,
+      "EnglishWord": "breakfast",
+      "Meanings": [
+        "صبحانه"
+      ]
+    },
+    {
+      "id": 184,
+      "EnglishWord": "better",
+      "Meanings": [
+        "بهتر"
+      ]
+    },
+    {
+      "id": 185,
+      "EnglishWord": "book",
+      "Meanings": [
+        "کتاب"
+      ]
+    },
+    {
+      "id": 186,
+      "EnglishWord": "body",
+      "Meanings": [
+        "بدن"
+      ]
+    },
+    {
+      "id": 187,
+      "EnglishWord": "bird",
+      "Meanings": [
+        "پرنده"
+      ]
+    },
+    {
+      "id": 188,
+      "EnglishWord": "bat",
+      "Meanings": [
+        "خفاش"
+      ]
+    },
+    {
+      "id": 189,
+      "EnglishWord": "beach",
+      "Meanings": [
+        "ساحل در یا"
+      ]
+    },
+    {
+      "id": 190,
+      "EnglishWord": "basic",
+      "Meanings": [
+        "پایه ای"
+      ]
+    },
+    {
+      "id": 191,
+      "EnglishWord": "big",
+      "Meanings": [
+        "بزرگ"
+      ]
+    },
+    {
+      "id": 192,
+      "EnglishWord": "blank",
+      "Meanings": [
+        "جای خالی"
+      ]
+    },
+    {
+      "id": 193,
+      "EnglishWord": "busy",
+      "Meanings": [
+        "مشغول"
+      ]
+    },
+    {
+      "id": 194,
+      "EnglishWord": "band",
+      "Meanings": [
+        "باند"
+      ]
+    },
+    {
+      "id": 195,
+      "EnglishWord": "bath",
+      "Meanings": [
+        "حمام"
+      ]
+    },
+    {
+      "id": 196,
+      "EnglishWord": "block",
+      "Meanings": [
+        "مسدود کردن"
+      ]
+    },
+    {
+      "id": 197,
+      "EnglishWord": "boss",
+      "Meanings": [
+        "رئیس"
+      ]
+    },
+    {
+      "id": 198,
+      "EnglishWord": "bone",
+      "Meanings": [
+        "استخوان"
+      ]
+    },
+    {
+      "id": 199,
+      "EnglishWord": "bread",
+      "Meanings": [
+        "نان"
+      ]
+    },
+    {
+      "id": 200,
+      "EnglishWord": "board",
+      "Meanings": [
+        "هیئت مدیره"
+      ]
+    },
+    {
+      "id": 201,
+      "EnglishWord": "buy",
+      "Meanings": [
+        "خرید"
+      ]
+    },
+    {
+      "id": 202,
+      "EnglishWord": "bag",
+      "Meanings": [
+        "کیسه"
+      ]
+    },
+    {
+      "id": 203,
+      "EnglishWord": "battle",
+      "Meanings": [
+        "نبرد"
+      ]
+    },
+    {
+      "id": 204,
+      "EnglishWord": "bed",
+      "Meanings": [
+        "بستر"
+      ]
+    },
+    {
+      "id": 205,
+      "EnglishWord": "bill",
+      "Meanings": [
+        "لایحه"
+      ]
+    },
+    {
+      "id": 206,
+      "EnglishWord": "boring",
+      "Meanings": [
+        "حوصله سر بر"
+      ]
+    },
+    {
+      "id": 207,
+      "EnglishWord": "bother",
+      "Meanings": [
+        "زحمت"
+      ]
+    },
+    {
+      "id": 208,
+      "EnglishWord": "brief",
+      "Meanings": [
+        "مختصر"
+      ]
+    },
+    {
+      "id": 209,
+      "EnglishWord": "bad",
+      "Meanings": [
+        "بد"
+      ]
+    },
+    {
+      "id": 210,
+      "EnglishWord": "boat",
+      "Meanings": [
+        "قایق"
+      ]
+    },
+    {
+      "id": 211,
+      "EnglishWord": "below",
+      "Meanings": [
+        "در زیر"
+      ]
+    },
+    {
+      "id": 212,
+      "EnglishWord": "building",
+      "Meanings": [
+        "ساختمان"
+      ]
+    },
+    {
+      "id": 213,
+      "EnglishWord": "basis",
+      "Meanings": [
+        "پایه"
+      ]
+    },
+    {
+      "id": 214,
+      "EnglishWord": "boyfriend",
+      "Meanings": [
+        "دوست پسر"
+      ]
+    },
+    {
+      "id": 215,
+      "EnglishWord": "bring",
+      "Meanings": [
+        "آوردن"
+      ]
+    },
+    {
+      "id": 216,
+      "EnglishWord": "beginning",
+      "Meanings": [
+        "شروع"
+      ]
+    },
+    {
+      "id": 217,
+      "EnglishWord": "begin",
+      "Meanings": [
+        "شروع"
+      ]
+    },
+    {
+      "id": 218,
+      "EnglishWord": "basket",
+      "Meanings": [
+        "سبد"
+      ]
+    },
+    {
+      "id": 219,
+      "EnglishWord": "bet",
+      "Meanings": [
+        "شرط"
+      ]
+    },
+    {
+      "id": 220,
+      "EnglishWord": "blow",
+      "Meanings": [
+        "فوت کردن، دمیدن"
+      ]
+    },
+    {
+      "id": 221,
+      "EnglishWord": "bonus",
+      "Meanings": [
+        "جایزه"
+      ]
+    },
+    {
+      "id": 222,
+      "EnglishWord": "border",
+      "Meanings": [
+        "مرز"
+      ]
+    },
+    {
+      "id": 223,
+      "EnglishWord": "branch",
+      "Meanings": [
+        "شاخه"
+      ]
+    },
+    {
+      "id": 224,
+      "EnglishWord": "breast",
+      "Meanings": [
+        "پستان"
+      ]
+    },
+    {
+      "id": 225,
+      "EnglishWord": "brother",
+      "Meanings": [
+        "برادر"
+      ]
+    },
+    {
+      "id": 226,
+      "EnglishWord": "buddy",
+      "Meanings": [
+        "دوست دا ری"
+      ]
+    },
+    {
+      "id": 227,
+      "EnglishWord": "bunch",
+      "Meanings": [
+        "دسته ای"
+      ]
+    },
+    {
+      "id": 228,
+      "EnglishWord": "birth",
+      "Meanings": [
+        "تولد"
+      ]
+    },
+    {
+      "id": 229,
+      "EnglishWord": "bank",
+      "Meanings": [
+        "بانک"
+      ]
+    },
+    {
+      "id": 230,
+      "EnglishWord": "bus",
+      "Meanings": [
+        "اتوبوس"
+      ]
+    },
+    {
+      "id": 231,
+      "EnglishWord": "beautiful",
+      "Meanings": [
+        "خوشگل"
+      ]
+    },
+    {
+      "id": 232,
+      "EnglishWord": "benefit",
+      "Meanings": [
+        "سود"
+      ]
+    },
+    {
+      "id": 233,
+      "EnglishWord": "box",
+      "Meanings": [
+        "جعبه"
+      ]
+    },
+    {
+      "id": 234,
+      "EnglishWord": "break",
+      "Meanings": [
+        "زنگ تفريح"
+      ]
+    },
+    {
+      "id": 235,
+      "EnglishWord": "ball",
+      "Meanings": [
+        "توپ"
+      ]
+    },
+    {
+      "id": 236,
+      "EnglishWord": "behind",
+      "Meanings": [
+        "پشت"
+      ]
+    },
+    {
+      "id": 237,
+      "EnglishWord": "bake",
+      "Meanings": [
+        "پختن"
+      ]
+    },
+    {
+      "id": 238,
+      "EnglishWord": "bar",
+      "Meanings": [
+        "بار"
+      ]
+    },
+    {
+      "id": 239,
+      "EnglishWord": "baseball",
+      "Meanings": [
+        "بیسبال"
+      ]
+    },
+    {
+      "id": 240,
+      "EnglishWord": "bell",
+      "Meanings": [
+        "زنگ"
+      ]
+    },
+    {
+      "id": 241,
+      "EnglishWord": "bike",
+      "Meanings": [
+        "دوچرخه"
+      ]
+    },
+    {
+      "id": 242,
+      "EnglishWord": "blame",
+      "Meanings": [
+        "سرزنش"
+      ]
+    },
+    {
+      "id": 243,
+      "EnglishWord": "boy",
+      "Meanings": [
+        "پسر"
+      ]
+    },
+    {
+      "id": 244,
+      "EnglishWord": "brick",
+      "Meanings": [
+        "آجر"
+      ]
+    },
+    {
+      "id": 245,
+      "EnglishWord": "balance",
+      "Meanings": [
+        "تعادل"
+      ]
+    },
+    {
+      "id": 246,
+      "EnglishWord": "bit",
+      "Meanings": [
+        "بیت"
+      ]
+    },
+    {
+      "id": 247,
+      "EnglishWord": "black",
+      "Meanings": [
+        "سیاه"
+      ]
+    },
+    {
+      "id": 248,
+      "EnglishWord": "bottom",
+      "Meanings": [
+        "پایین"
+      ]
+    },
+    {
+      "id": 249,
+      "EnglishWord": "build",
+      "Meanings": [
+        "ساختن"
+      ]
+    },
+    {
+      "id": 250,
+      "EnglishWord": "believe",
+      "Meanings": [
+        "ایمان داشتن"
+      ]
+    },
+    {
+      "id": 251,
+      "EnglishWord": "beyond",
+      "Meanings": [
+        "فراتر"
+      ]
+    },
+    {
+      "id": 252,
+      "EnglishWord": "behave",
+      "Meanings": [
+        "رفتار كردن"
+      ]
+    },
+    {
+      "id": 253,
+      "EnglishWord": "bend",
+      "Meanings": [
+        "خم شدن"
+      ]
+    },
+    {
+      "id": 254,
+      "EnglishWord": "bicycle",
+      "Meanings": [
+        "دوچرخه"
+      ]
+    },
+    {
+      "id": 255,
+      "EnglishWord": "bite",
+      "Meanings": [
+        "گاز گرفتن"
+      ]
+    },
+    {
+      "id": 256,
+      "EnglishWord": "blind",
+      "Meanings": [
+        "نابینا"
+      ]
+    },
+    {
+      "id": 257,
+      "EnglishWord": "bottle",
+      "Meanings": [
+        "بط ری"
+      ]
+    },
+    {
+      "id": 258,
+      "EnglishWord": "brave",
+      "Meanings": [
+        "شجاع"
+      ]
+    },
+    {
+      "id": 259,
+      "EnglishWord": "breath",
+      "Meanings": [
+        "نفس کشیدن"
+      ]
+    },
+    {
+      "id": 260,
+      "EnglishWord": "briefly",
+      "Meanings": [
+        "به طور خلاصه"
+      ]
+    },
+    {
+      "id": 261,
+      "EnglishWord": "buyer",
+      "Meanings": [
+        "خر یدار"
+      ]
+    },
+    {
+      "id": 262,
+      "EnglishWord": "born",
+      "Meanings": [
+        "بدنیا آمدن"
+      ]
+    },
+    {
+      "id": 263,
+      "EnglishWord": "bright",
+      "Meanings": [
+        "روشن است"
+      ]
+    },
+    {
+      "id": 264,
+      "EnglishWord": "broad",
+      "Meanings": [
+        "وسیع"
+      ]
+    },
+    {
+      "id": 265,
+      "EnglishWord": "brush",
+      "Meanings": [
+        "قلم مو"
+      ]
+    },
+    {
+      "id": 266,
+      "EnglishWord": "brain",
+      "Meanings": [
+        "مغز"
+      ]
+    },
+    {
+      "id": 267,
+      "EnglishWord": "button",
+      "Meanings": [
+        "دکمه"
+      ]
+    },
+    {
+      "id": 268,
+      "EnglishWord": "base",
+      "Meanings": [
+        "پایه"
+      ]
+    },
+    {
+      "id": 269,
+      "EnglishWord": "blood",
+      "Meanings": [
+        "خون"
+      ]
+    },
+    {
+      "id": 270,
+      "EnglishWord": "bathroom",
+      "Meanings": [
+        "حمام"
+      ]
+    },
+    {
+      "id": 271,
+      "EnglishWord": "bear",
+      "Meanings": [
+        "خرس"
+      ]
+    },
+    {
+      "id": 272,
+      "EnglishWord": "bedroom",
+      "Meanings": [
+        "اتاق خواب"
+      ]
+    },
+    {
+      "id": 273,
+      "EnglishWord": "beer",
+      "Meanings": [
+        "آبجو"
+      ]
+    },
+    {
+      "id": 274,
+      "EnglishWord": "belong",
+      "Meanings": [
+        "تعلق داشتن"
+      ]
+    },
+    {
+      "id": 275,
+      "EnglishWord": "bid",
+      "Meanings": [
+        "پیشنهاد"
+      ]
+    },
+    {
+      "id": 276,
+      "EnglishWord": "birthday",
+      "Meanings": [
+        "روز تولد"
+      ]
+    },
+    {
+      "id": 277,
+      "EnglishWord": "bitter",
+      "Meanings": [
+        "تلخ"
+      ]
+    },
+    {
+      "id": 278,
+      "EnglishWord": "boot",
+      "Meanings": [
+        "پوتین - چکمه"
+      ]
+    },
+    {
+      "id": 279,
+      "EnglishWord": "brilliant",
+      "Meanings": [
+        "درخشان"
+      ]
+    },
+    {
+      "id": 280,
+      "EnglishWord": "bug",
+      "Meanings": [
+        "اشکال"
+      ]
+    },
+    {
+      "id": 281,
+      "EnglishWord": "brown",
+      "Meanings": [
+        "قهوه ای"
+      ]
+    },
+    {
+      "id": 282,
+      "EnglishWord": "budget",
+      "Meanings": [
+        "بودجه"
+      ]
+    },
+    {
+      "id": 283,
+      "EnglishWord": "bowl",
+      "Meanings": [
+        "کاسه"
+      ]
+    },
+    {
+      "id": 284,
+      "EnglishWord": "bridge",
+      "Meanings": [
+        "پل"
+      ]
+    },
+    {
+      "id": 285,
+      "EnglishWord": "baby",
+      "Meanings": [
+        "عز یزم"
+      ]
+    },
+    {
+      "id": 286,
+      "EnglishWord": "background",
+      "Meanings": [
+        "زمینه"
+      ]
+    },
+    {
+      "id": 287,
+      "EnglishWord": "more",
+      "Meanings": [
+        "بیش"
+      ]
+    },
+    {
+      "id": 288,
+      "EnglishWord": "master",
+      "Meanings": [
+        "استاد"
+      ]
+    },
+    {
+      "id": 289,
+      "EnglishWord": "memory",
+      "Meanings": [
+        "حافظه"
+      ]
+    },
+    {
+      "id": 290,
+      "EnglishWord": "muscle",
+      "Meanings": [
+        "ماهیچه"
+      ]
+    },
+    {
+      "id": 291,
+      "EnglishWord": "many",
+      "Meanings": [
+        "بسیاری"
+      ]
+    },
+    {
+      "id": 292,
+      "EnglishWord": "most",
+      "Meanings": [
+        "اکثر"
+      ]
+    },
+    {
+      "id": 293,
+      "EnglishWord": "may",
+      "Meanings": [
+        "ممکن است"
+      ]
+    },
+    {
+      "id": 294,
+      "EnglishWord": "make",
+      "Meanings": [
+        "ساختن"
+      ]
+    },
+    {
+      "id": 295,
+      "EnglishWord": "my",
+      "Meanings": [
+        "من"
+      ]
+    },
+    {
+      "id": 296,
+      "EnglishWord": "money",
+      "Meanings": [
+        "پول"
+      ]
+    },
+    {
+      "id": 297,
+      "EnglishWord": "map",
+      "Meanings": [
+        "نقشه"
+      ]
+    },
+    {
+      "id": 298,
+      "EnglishWord": "much",
+      "Meanings": [
+        "خیلی"
+      ]
+    },
+    {
+      "id": 299,
+      "EnglishWord": "manage",
+      "Meanings": [
+        "مدیر یت کردن"
+      ]
+    },
+    {
+      "id": 300,
+      "EnglishWord": "mother",
+      "Meanings": [
+        "مادر"
+      ]
+    },
+    {
+      "id": 301,
+      "EnglishWord": "might",
+      "Meanings": [
+        "ممکن"
+      ]
+    },
+    {
+      "id": 302,
+      "EnglishWord": "must",
+      "Meanings": [
+        "باید"
+      ]
+    },
+    {
+      "id": 303,
+      "EnglishWord": "meat",
+      "Meanings": [
+        "گوشت"
+      ]
+    },
+    {
+      "id": 304,
+      "EnglishWord": "me",
+      "Meanings": [
+        "من"
+      ]
+    },
+    {
+      "id": 305,
+      "EnglishWord": "mainly",
+      "Meanings": [
+        "به طور عمده"
+      ]
+    },
+    {
+      "id": 306,
+      "EnglishWord": "membership",
+      "Meanings": [
+        "عضو یت"
+      ]
+    },
+    {
+      "id": 307,
+      "EnglishWord": "merely",
+      "Meanings": [
+        "صرفا - فقط"
+      ]
+    },
+    {
+      "id": 308,
+      "EnglishWord": "minimum",
+      "Meanings": [
+        "کمتر ین"
+      ]
+    },
+    {
+      "id": 309,
+      "EnglishWord": "music",
+      "Meanings": [
+        "موسیقی"
+      ]
+    },
+    {
+      "id": 310,
+      "EnglishWord": "method",
+      "Meanings": [
+        "روش"
+      ]
+    },
+    {
+      "id": 311,
+      "EnglishWord": "milk",
+      "Meanings": [
+        "شیر"
+      ]
+    },
+    {
+      "id": 312,
+      "EnglishWord": "minor",
+      "Meanings": [
+        "جزئی"
+      ]
+    },
+    {
+      "id": 313,
+      "EnglishWord": "mixed",
+      "Meanings": [
+        "مخلوط شده"
+      ]
+    },
+    {
+      "id": 314,
+      "EnglishWord": "mixture",
+      "Meanings": [
+        "مخلوط"
+      ]
+    },
+    {
+      "id": 315,
+      "EnglishWord": "mouth",
+      "Meanings": [
+        "دهان"
+      ]
+    },
+    {
+      "id": 316,
+      "EnglishWord": "market",
+      "Meanings": [
+        "بازار"
+      ]
+    },
+    {
+      "id": 317,
+      "EnglishWord": "mind",
+      "Meanings": [
+        "ذهن"
+      ]
+    },
+    {
+      "id": 318,
+      "EnglishWord": "mark",
+      "Meanings": [
+        "علامت"
+      ]
+    },
+    {
+      "id": 319,
+      "EnglishWord": "match",
+      "Meanings": [
+        "همخوانی داشتن"
+      ]
+    },
+    {
+      "id": 320,
+      "EnglishWord": "mission",
+      "Meanings": [
+        "مامور یت"
+      ]
+    },
+    {
+      "id": 321,
+      "EnglishWord": "major",
+      "Meanings": [
+        "عمده"
+      ]
+    },
+    {
+      "id": 322,
+      "EnglishWord": "media",
+      "Meanings": [
+        "رسانه ها"
+      ]
+    },
+    {
+      "id": 323,
+      "EnglishWord": "mental",
+      "Meanings": [
+        "ذهنی"
+      ]
+    },
+    {
+      "id": 324,
+      "EnglishWord": "move",
+      "Meanings": [
+        "حرکت"
+      ]
+    },
+    {
+      "id": 325,
+      "EnglishWord": "matter",
+      "Meanings": [
+        "موضوع"
+      ]
+    },
+    {
+      "id": 326,
+      "EnglishWord": "main",
+      "Meanings": [
+        "اصلی"
+      ]
+    },
+    {
+      "id": 327,
+      "EnglishWord": "mall",
+      "Meanings": [
+        "مرکز خر ید"
+      ]
+    },
+    {
+      "id": 328,
+      "EnglishWord": "manager",
+      "Meanings": [
+        "مدیر"
+      ]
+    },
+    {
+      "id": 329,
+      "EnglishWord": "manner",
+      "Meanings": [
+        "شیوه"
+      ]
+    },
+    {
+      "id": 330,
+      "EnglishWord": "march",
+      "Meanings": [
+        "مارس"
+      ]
+    },
+    {
+      "id": 331,
+      "EnglishWord": "married",
+      "Meanings": [
+        "متاهل"
+      ]
+    },
+    {
+      "id": 332,
+      "EnglishWord": "meeting",
+      "Meanings": [
+        "ملاقات"
+      ]
+    },
+    {
+      "id": 333,
+      "EnglishWord": "mention",
+      "Meanings": [
+        "اشاره"
+      ]
+    },
+    {
+      "id": 334,
+      "EnglishWord": "management",
+      "Meanings": [
+        "مدیریت"
+      ]
+    },
+    {
+      "id": 335,
+      "EnglishWord": "movie",
+      "Meanings": [
+        "فیلم سینما"
+      ]
+    },
+    {
+      "id": 336,
+      "EnglishWord": "mouse",
+      "Meanings": [
+        "موش"
+      ]
+    },
+    {
+      "id": 337,
+      "EnglishWord": "mistake",
+      "Meanings": [
+        "اشتباه"
+      ]
+    },
+    {
+      "id": 338,
+      "EnglishWord": "mom",
+      "Meanings": [
+        "مامان"
+      ]
+    },
+    {
+      "id": 339,
+      "EnglishWord": "mountain",
+      "Meanings": [
+        "کوه"
+      ]
+    },
+    {
+      "id": 340,
+      "EnglishWord": "mean",
+      "Meanings": [
+        "منظور داشتن"
+      ]
+    },
+    {
+      "id": 341,
+      "EnglishWord": "man",
+      "Meanings": [
+        "مرد"
+      ]
+    },
+    {
+      "id": 342,
+      "EnglishWord": "model",
+      "Meanings": [
+        "مدل"
+      ]
+    },
+    {
+      "id": 343,
+      "EnglishWord": "maintain",
+      "Meanings": [
+        "حفظ"
+      ]
+    },
+    {
+      "id": 344,
+      "EnglishWord": "month",
+      "Meanings": [
+        "ماه"
+      ]
+    },
+    {
+      "id": 345,
+      "EnglishWord": "marketing",
+      "Meanings": [
+        "بازار یابی"
+      ]
+    },
+    {
+      "id": 346,
+      "EnglishWord": "material",
+      "Meanings": [
+        "مواد"
+      ]
+    },
+    {
+      "id": 347,
+      "EnglishWord": "medical",
+      "Meanings": [
+        "پزشکی"
+      ]
+    },
+    {
+      "id": 348,
+      "EnglishWord": "marriage",
+      "Meanings": [
+        "ازدواج"
+      ]
+    },
+    {
+      "id": 349,
+      "EnglishWord": "meaning",
+      "Meanings": [
+        "به معنی"
+      ]
+    },
+    {
+      "id": 350,
+      "EnglishWord": "medicine",
+      "Meanings": [
+        "دارو"
+      ]
+    },
+    {
+      "id": 351,
+      "EnglishWord": "middle",
+      "Meanings": [
+        "وسط"
+      ]
+    },
+    {
+      "id": 352,
+      "EnglishWord": "mail",
+      "Meanings": [
+        "پست الکترونیکی"
+      ]
+    },
+    {
+      "id": 353,
+      "EnglishWord": "massive",
+      "Meanings": [
+        "عظیم"
+      ]
+    },
+    {
+      "id": 354,
+      "EnglishWord": "measurement",
+      "Meanings": [
+        "اندازه گی ری"
+      ]
+    },
+    {
+      "id": 355,
+      "EnglishWord": "mess",
+      "Meanings": [
+        "بهم ر یختگی"
+      ]
+    },
+    {
+      "id": 356,
+      "EnglishWord": "mobile",
+      "Meanings": [
+        "سیار"
+      ]
+    },
+    {
+      "id": 357,
+      "EnglishWord": "mode",
+      "Meanings": [
+        "حالت"
+      ]
+    },
+    {
+      "id": 358,
+      "EnglishWord": "mud",
+      "Meanings": [
+        "گل و لای"
+      ]
+    },
+    {
+      "id": 359,
+      "EnglishWord": "metal",
+      "Meanings": [
+        "فلز"
+      ]
+    },
+    {
+      "id": 360,
+      "EnglishWord": "medium",
+      "Meanings": [
+        "متوسط"
+      ]
+    },
+    {
+      "id": 361,
+      "EnglishWord": "machine",
+      "Meanings": [
+        "دستگاه"
+      ]
+    },
+    {
+      "id": 362,
+      "EnglishWord": "math",
+      "Meanings": [
+        "ر یاضی"
+      ]
+    },
+    {
+      "id": 363,
+      "EnglishWord": "moment",
+      "Meanings": [
+        "لحظه"
+      ]
+    },
+    {
+      "id": 364,
+      "EnglishWord": "maintenance",
+      "Meanings": [
+        "نگهدا ری"
+      ]
+    },
+    {
+      "id": 365,
+      "EnglishWord": "manufacturer",
+      "Meanings": [
+        "سازنده"
+      ]
+    },
+    {
+      "id": 366,
+      "EnglishWord": "meal",
+      "Meanings": [
+        "وعده غذایی"
+      ]
+    },
+    {
+      "id": 367,
+      "EnglishWord": "miss",
+      "Meanings": [
+        "از دست دادن"
+      ]
+    },
+    {
+      "id": 368,
+      "EnglishWord": "monitor",
+      "Meanings": [
+        "مانیتور"
+      ]
+    },
+    {
+      "id": 369,
+      "EnglishWord": "mortgage",
+      "Meanings": [
+        "رهن"
+      ]
+    },
+    {
+      "id": 370,
+      "EnglishWord": "morning",
+      "Meanings": [
+        "صبح"
+      ]
+    },
+    {
+      "id": 371,
+      "EnglishWord": "mix",
+      "Meanings": [
+        "مخلوط کردن"
+      ]
+    },
+    {
+      "id": 372,
+      "EnglishWord": "magazine",
+      "Meanings": [
+        "مجله"
+      ]
+    },
+    {
+      "id": 373,
+      "EnglishWord": "maybe",
+      "Meanings": [
+        "شاید"
+      ]
+    },
+    {
+      "id": 374,
+      "EnglishWord": "member",
+      "Meanings": [
+        "عضو"
+      ]
+    },
+    {
+      "id": 375,
+      "EnglishWord": "message",
+      "Meanings": [
+        "پیام"
+      ]
+    },
+    {
+      "id": 376,
+      "EnglishWord": "male",
+      "Meanings": [
+        "نر"
+      ]
+    },
+    {
+      "id": 377,
+      "EnglishWord": "menu",
+      "Meanings": [
+        "فهرست"
+      ]
+    },
+    {
+      "id": 378,
+      "EnglishWord": "mine",
+      "Meanings": [
+        "مال خودم"
+      ]
+    },
+    {
+      "id": 379,
+      "EnglishWord": "mirror",
+      "Meanings": [
+        "آینه"
+      ]
+    },
+    {
+      "id": 380,
+      "EnglishWord": "moreover",
+      "Meanings": [
+        "علاوه بر این"
+      ]
+    },
+    {
+      "id": 381,
+      "EnglishWord": "meet",
+      "Meanings": [
+        "ملاقات"
+      ]
+    },
+    {
+      "id": 382,
+      "EnglishWord": "mood",
+      "Meanings": [
+        "حالت"
+      ]
+    },
+    {
+      "id": 383,
+      "EnglishWord": "minute",
+      "Meanings": [
+        "دقیقه"
+      ]
+    },
+    {
+      "id": 384,
+      "EnglishWord": "mad",
+      "Meanings": [
+        "دیوانه"
+      ]
+    },
+    {
+      "id": 385,
+      "EnglishWord": "manufacturing",
+      "Meanings": [
+        "تولید"
+      ]
+    },
+    {
+      "id": 386,
+      "EnglishWord": "marry",
+      "Meanings": [
+        "ازدواج کن"
+      ]
+    },
+    {
+      "id": 387,
+      "EnglishWord": "mate",
+      "Meanings": [
+        "رفیق"
+      ]
+    },
+    {
+      "id": 388,
+      "EnglishWord": "midnight",
+      "Meanings": [
+        "نیمه شب"
+      ]
+    },
+    {
+      "id": 389,
+      "EnglishWord": "motor",
+      "Meanings": [
+        "موتور"
+      ]
+    },
+    {
+      "id": 390,
+      "EnglishWord": "maximum",
+      "Meanings": [
+        "بیشتر ین"
+      ]
+    },
+    {
+      "id": 391,
+      "EnglishWord": "mostly",
+      "Meanings": [
+        "اغلب"
+      ]
+    },
+    {
+      "id": 392,
+      "EnglishWord": "myself",
+      "Meanings": [
+        "خودم"
+      ]
+    },
+    {
+      "id": 393,
+      "EnglishWord": "not",
+      "Meanings": [
+        "نه"
+      ]
+    },
+    {
+      "id": 394,
+      "EnglishWord": "no",
+      "Meanings": [
+        "نه"
+      ]
+    },
+    {
+      "id": 395,
+      "EnglishWord": "new",
+      "Meanings": [
+        "جدید"
+      ]
+    },
+    {
+      "id": 396,
+      "EnglishWord": "need",
+      "Meanings": [
+        "نیاز"
+      ]
+    },
+    {
+      "id": 397,
+      "EnglishWord": "necessarily",
+      "Meanings": [
+        "لزوما"
+      ]
+    },
+    {
+      "id": 398,
+      "EnglishWord": "net",
+      "Meanings": [
+        "خالص"
+      ]
+    },
+    {
+      "id": 399,
+      "EnglishWord": "now",
+      "Meanings": [
+        "اکنون"
+      ]
+    },
+    {
+      "id": 400,
+      "EnglishWord": "number",
+      "Meanings": [
+        "عدد"
+      ]
+    },
+    {
+      "id": 401,
+      "EnglishWord": "numerous",
+      "Meanings": [
+        "چندین"
+      ]
+    },
+    {
+      "id": 402,
+      "EnglishWord": "never",
+      "Meanings": [
+        "هرگز"
+      ]
+    },
+    {
+      "id": 403,
+      "EnglishWord": "nor",
+      "Meanings": [
+        "نه"
+      ]
+    },
+    {
+      "id": 404,
+      "EnglishWord": "next",
+      "Meanings": [
+        "بعد"
+      ]
+    },
+    {
+      "id": 405,
+      "EnglishWord": "nature",
+      "Meanings": [
+        "طبیعت"
+      ]
+    },
+    {
+      "id": 406,
+      "EnglishWord": "nobody",
+      "Meanings": [
+        "هيچ كس"
+      ]
+    },
+    {
+      "id": 407,
+      "EnglishWord": "name",
+      "Meanings": [
+        "نام"
+      ]
+    },
+    {
+      "id": 408,
+      "EnglishWord": "national",
+      "Meanings": [
+        "ملی"
+      ]
+    },
+    {
+      "id": 409,
+      "EnglishWord": "natural",
+      "Meanings": [
+        "طبیعی است"
+      ]
+    },
+    {
+      "id": 410,
+      "EnglishWord": "narrow",
+      "Meanings": [
+        "بار یک"
+      ]
+    },
+    {
+      "id": 411,
+      "EnglishWord": "nearby",
+      "Meanings": [
+        "در نزدیکی"
+      ]
+    },
+    {
+      "id": 412,
+      "EnglishWord": "neither",
+      "Meanings": [
+        "نه"
+      ]
+    },
+    {
+      "id": 413,
+      "EnglishWord": "nose",
+      "Meanings": [
+        "بینی"
+      ]
+    },
+    {
+      "id": 414,
+      "EnglishWord": "nothing",
+      "Meanings": [
+        "هیچ چی"
+      ]
+    },
+    {
+      "id": 415,
+      "EnglishWord": "nail",
+      "Meanings": [
+        "ناخن"
+      ]
+    },
+    {
+      "id": 416,
+      "EnglishWord": "noise",
+      "Meanings": [
+        "سر و صدا"
+      ]
+    },
+    {
+      "id": 417,
+      "EnglishWord": "none",
+      "Meanings": [
+        "هیچ کدام"
+      ]
+    },
+    {
+      "id": 418,
+      "EnglishWord": "necessary",
+      "Meanings": [
+        "لازم است"
+      ]
+    },
+    {
+      "id": 419,
+      "EnglishWord": "news",
+      "Meanings": [
+        "اخبار"
+      ]
+    },
+    {
+      "id": 420,
+      "EnglishWord": "note",
+      "Meanings": [
+        "توجه داشته باشید"
+      ]
+    },
+    {
+      "id": 421,
+      "EnglishWord": "nasty",
+      "Meanings": [
+        "تند و زننده"
+      ]
+    },
+    {
+      "id": 422,
+      "EnglishWord": "native",
+      "Meanings": [
+        "بومی"
+      ]
+    },
+    {
+      "id": 423,
+      "EnglishWord": "night",
+      "Meanings": [
+        "شب"
+      ]
+    },
+    {
+      "id": 424,
+      "EnglishWord": "nation",
+      "Meanings": [
+        "ملت"
+      ]
+    },
+    {
+      "id": 425,
+      "EnglishWord": "negative",
+      "Meanings": [
+        "منفی"
+      ]
+    },
+    {
+      "id": 426,
+      "EnglishWord": "normally",
+      "Meanings": [
+        "به طور معمول"
+      ]
+    },
+    {
+      "id": 427,
+      "EnglishWord": "negotiate",
+      "Meanings": [
+        "مذاکره کن"
+      ]
+    },
+    {
+      "id": 428,
+      "EnglishWord": "nurse",
+      "Meanings": [
+        "پرستار"
+      ]
+    },
+    {
+      "id": 429,
+      "EnglishWord": "network",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "id": 430,
+      "EnglishWord": "north",
+      "Meanings": [
+        "شمال"
+      ]
+    },
+    {
+      "id": 431,
+      "EnglishWord": "newspaper",
+      "Meanings": [
+        "روزنامه"
+      ]
+    },
+    {
+      "id": 432,
+      "EnglishWord": "nice",
+      "Meanings": [
+        "خوب"
+      ]
+    },
+    {
+      "id": 433,
+      "EnglishWord": "neck",
+      "Meanings": [
+        "گردن"
+      ]
+    },
+    {
+      "id": 434,
+      "EnglishWord": "notice",
+      "Meanings": [
+        "اطلاع"
+      ]
+    },
+    {
+      "id": 435,
+      "EnglishWord": "normal",
+      "Meanings": [
+        "طبیعی"
+      ]
+    },
+    {
+      "id": 436,
+      "EnglishWord": "near",
+      "Meanings": [
+        "نزدیک"
+      ]
+    },
+    {
+      "id": 437,
+      "EnglishWord": "neat",
+      "Meanings": [
+        "شسته و رفته"
+      ]
+    },
+    {
+      "id": 438,
+      "EnglishWord": "negotiation",
+      "Meanings": [
+        "مذاکره"
+      ]
+    },
+    {
+      "id": 439,
+      "EnglishWord": "nerve",
+      "Meanings": [
+        "عصب"
+      ]
+    },
+    {
+      "id": 440,
+      "EnglishWord": "nervous",
+      "Meanings": [
+        "عصبی"
+      ]
+    },
+    {
+      "id": 441,
+      "EnglishWord": "nowhere",
+      "Meanings": [
+        "هیچ جایی"
+      ]
+    },
+    {
+      "id": 442,
+      "EnglishWord": "naturally",
+      "Meanings": [
+        "به طور طبیعی"
+      ]
+    },
+    {
+      "id": 443,
+      "EnglishWord": "nearly",
+      "Meanings": [
+        "تقر یبا"
+      ]
+    },
+    {
+      "id": 444,
+      "EnglishWord": "novel",
+      "Meanings": [
+        "رمان"
+      ]
+    }
+  ]
+}
