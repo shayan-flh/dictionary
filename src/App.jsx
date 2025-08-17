@@ -2,21 +2,21 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 
 function App() {
-  const [allWords, setAllWords] = useState([]);
+  // const [allWords, setAllWords] = useState([]);
   const [word, setWord] = useState('');
   const [suggestion, setSuggestion] = useState([]);
 
-  useEffect(() => {
-    const getAll = async () => {
-      try {
-        const res = await axios.get(`http://localhost:5000/words`);
-        setAllWords(res.data);
-      } catch (error) {
-        console.log('error is', error);
-      }
-    };
-    getAll();
-  }, []);
+  // useEffect(() => {
+  //   const getAll = async () => {
+  //     try {
+  //       const res = await axios.get(`http://localhost:5000/words`);
+  //       setAllWords(res.data);
+  //     } catch (error) {
+  //       console.log('error is', error);
+  //     }
+  //   };
+  //   getAll();
+  // }, []);
 
   useEffect(() => {
     if (word.trim().length === 0) {
@@ -24,12 +24,17 @@ function App() {
       return;
     }
 
-    const filter = allWords.filter((item) =>
-      item.EnglishWord.toLowerCase().startsWith(word.toLowerCase())
-    );
-
-    setSuggestion(filter);
-  }, [word, allWords]);
+    const getWordFromBack = async () => {
+      try {
+        const res = await axios.get(`http://127.0.0.1:8000/search?query=${word}`)
+        setSuggestion(res.data.results)
+        
+      } catch (error) {
+        console.log('error is ', error);
+      }
+    }
+    getWordFromBack()
+  }, [word]);
 
   return (
     <div className="min-h-screen bg-gray-100 flex items-start justify-center p-6">
